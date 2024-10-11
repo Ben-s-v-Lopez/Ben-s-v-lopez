@@ -6,7 +6,7 @@ Here, you'll find a mix of personal projects, collaborations, and contributions 
 
 ## 🚀 About Me
 
-🔭 I’m currently working on [your current project or goal]
+🔭 I’m currently working on an Anti-Money Laundering (AML) Detection Model
 
 🌱 I’m currently learning C++
 
