@@ -14,7 +14,7 @@ Here, you'll find a mix of personal projects, collaborations, and contributions 
 
 👯 I’m looking to collaborate on actuarial or health related projects
 
-⚡ Fun fact: I play 3 instruments!
+⚡ Fun fact: I play 3 instruments! (Guitar, drums, & bass)
 
 ## 🛠️ Technologies & Tools
 
