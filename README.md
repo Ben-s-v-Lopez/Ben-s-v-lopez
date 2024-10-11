@@ -20,14 +20,15 @@ Here, you'll find a mix of personal projects, collaborations, and contributions 
 
 Here are some of the technologies and tools I love to work with:
 
-Languages: Python, R, Java
+Languages: Python, R, Java, SQL
 
-Frameworks/Libraries: React, Node.js, Django
+Frameworks/Libraries: React, Node.js, Django, PyTorch, Tensorflow
 
 Tools: Git, Docker, Kubernetes
 
 ## 🌍 Connect with Me
 
-[LinkedIn]([https://example.com](https://www.linkedin.com/in/ben-lopez-ba-msc-15041a223/))
+[LinkedIn](https://www.linkedin.com/in/ben-lopez-ba-msc-15041a223/)
 
-[Website]([[https://example.com](https://www.linkedin.com/in/ben-lopez-ba-msc-15041a223/)](https://ben-lopez-portfolio.netlify.app))
+
+[Personal Website](https://ben-lopez-portfolio.netlify.app)
