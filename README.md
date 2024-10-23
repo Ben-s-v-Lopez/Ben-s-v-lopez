@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ben Lopez!
+# Hi there 👋, I'm Ben Velastegui!
 
 Welcome to my GitHub profile! I'm passionate about data science & AI.
 
